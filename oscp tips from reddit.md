@@ -1,5 +1,6 @@
-#**THIS IS A POST FROM REDDIT OF SOMEONE THAT PASSED THE EXAM AND HE GAVE SOME GREAT TIPS!**
-##$THE ORIGINAL POST:https://www.reddit.com/r/oscp/comments/uojdi2/second_attempt_passed_with_70_points/
+# **THIS IS A POST FROM REDDIT OF SOMEONE THAT PASSED THE EXAM AND HE GAVE SOME GREAT TIPS!**
+
+### OG POST:https://www.reddit.com/r/oscp/comments/uojdi2/second_attempt_passed_with_70_points/
 
 Hi all! Buzzing right now, but I posted a few weeks back on how I failed my first attempt. I recently attempted my second attempt and have passed with 70 points.
 I would like to just give a review of the various resources I used throughout my journey. I took about 1 year and when I started this journey, I have not pwned a single box before and have some previous CTF experience.
