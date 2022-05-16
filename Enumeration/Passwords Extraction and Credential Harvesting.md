@@ -1,5 +1,3 @@
-# Passwords Extraction and Credential Harvesting
-
 **Using Mimikatz:**
 "Mimikatz is an open-source application that allows users to view and save authentication credentials like Kerberos tickets. Benjamin Delpy continues to lead Mimikatz developments, so the toolset works with the current release of Windows and includes the most up-to-date attacks."
 
@@ -56,3 +54,17 @@ On our Linux machine run the following command on the files that we got from the
 ---
 
 Using Impacket:
+
+```
+- Install impacket:
+	- git clone <https://github.com/SecureAuthCorp/impacket.git>
+	- pip install -r requirements.txt
+	- python setup.py install
+```
+
+```
+- Using secretdump:
+	- python secretdump.py -sam [SAM FILE] -system [System FILE] LOCAL
+```
+
+---
